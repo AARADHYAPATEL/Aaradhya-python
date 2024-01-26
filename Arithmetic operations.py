@@ -18,3 +18,4 @@ print("The remainder of 2 numbers is:", rem)
 # power of first number
 exp = a ** b
 print("The power of the given number is:", exp)
+print("Thank you for using me!")
