@@ -1,3 +1,4 @@
+# Program to calculate arithmetic operations.
 a = int(input("Enter first number :"))
 b = int(input("Enter second number :"))
 # Sum of 2 numbers
