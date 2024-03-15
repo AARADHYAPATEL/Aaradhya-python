@@ -1,0 +1,8 @@
+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
+http://127.0.0.1:7860
+python "C:\Users\mearj\Desktop\app.py"
+Hello how are you this is me
+This is just sample text for my program so please do not disturb me
+I am doing python programming
+So PLEASE DO NOT DISTURB
+You still hear, your as stubborn as a mull.
