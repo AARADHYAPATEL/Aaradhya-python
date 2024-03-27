@@ -1,0 +1,5 @@
+print("My school's name is Harvest International school")
+print("It is located in Indlabele Village, Attibele Hobli, Anekal Taluk - 562107")
+print("It is smaller than the Kodthi branch")
+print("It is named the Innovation Campus")
+print("The school has a 2 football field, Indoor and Outdoor")
