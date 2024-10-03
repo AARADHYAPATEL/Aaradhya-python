@@ -1,0 +1,6 @@
+a = any([True, False, False])
+b = any([False, False, False])
+print(a)
+print(b)
+c = str(15)
+print(c) 
